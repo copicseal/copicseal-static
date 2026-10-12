@@ -1,0 +1,10 @@
+{
+  "id": "libheif",
+  "version": "1.23.1",
+  "notes": "Windows HEIC/HEIF 转码（libheif 1.23.1）",
+  "assets": [
+    { "name": "libheif-windows-x86_64.zip", "size": 12910157, "sha256": "EBF1FAEA8D98DCEB359174A97679C6DE60567A67521B872905F809BC68DD4978" },
+    { "name": "libheif-windows-aarch64.zip", "size": 10380244, "sha256": "BDD8F38D641B0969BF26280C279318F4AB6F2DBCE760FAE371F8BF6661C2F69E" },
+    { "name": "libheif-windows-x86.zip",    "size": 11211386, "sha256": "0D64D9C4D7248DE3274C92E340EE62E46735FCC87E5DA7F92A7244A5068D515C" }
+  ]
+}
