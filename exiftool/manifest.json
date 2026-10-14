@@ -1,0 +1,10 @@
+{
+  "id": "exiftool",
+  "version": "13.59",
+  "notes": "读取相机 MakerNote（快门数等）：Windows 用自包含 exe，macOS/Linux 用 Perl 版（需系统自带 perl）",
+  "assets": [
+    { "name": "exiftool-windows-x86_64.zip", "size": 11183675, "sha256": "44B512B25AF500724BA579D0A53C8FC5851628B692DD5E5D94AE4A15C2CBA9EC" },
+    { "name": "exiftool-windows-x86.zip",    "size": 11375985, "sha256": "FE9A55D28B05C1B0E18877B4881F40D83DB222F90018963473CFF798E8BF05AF" },
+    { "name": "exiftool-perl.zip",           "size": 8588949,  "sha256": "CA91CD730093F13D4C23D0065CB14875E83CBF6EA472EA9BD5FDB6731AB2F15D" }
+  ]
+}
